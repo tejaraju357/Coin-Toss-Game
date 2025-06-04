@@ -1,0 +1,76 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with \"Coin Toss Game\" as text content",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with \"Heads (or) Tails\" as text content",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of an HTML image element with alt attribute value as \"toss result\" and src attribute value as the URL for heads image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML button element with text content as \"Toss Coin\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of HTML paragraph element with text content as \"Total: 0\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of HTML paragraph element with text content as \"Heads: 0\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of HTML paragraph element with text content as \"Tails: 0\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "When the Toss Coin button is clicked, if the result is \"heads\" then the heads image should be displayed",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "When the Toss Coin button is clicked, if the result is \"heads\" then the heads count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "When the Toss Coin button is clicked, if the result is \"tails\" then the tails image should be displayed",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_11",
+      "evaluation_result": "CORRECT",
+      "title": "When the Toss Coin button is clicked, if the result is \"tails\" then the tails count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPW8P9J_TEST_12",
+      "evaluation_result": "CORRECT",
+      "title": "When the Toss Coin button is clicked, the total should be incremented by one",
+      "errorMessages": []
+    }
+  ]
+}
